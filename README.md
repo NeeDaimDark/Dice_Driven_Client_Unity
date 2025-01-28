@@ -152,8 +152,6 @@ Contributors
 
 Mohamed Amine Koubaa – Lead Developer
 
-This repository is a mirror of the original project hosted on GitLab:
-
 
 This repository is a mirror of the original project hosted on GitLab:
 [GitLab Repository](https://gitlab.com/needaimdark/dice_driven_unity_client)
