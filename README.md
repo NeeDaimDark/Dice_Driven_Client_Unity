@@ -150,8 +150,7 @@ Enhancing performance optimization for low-end devices.
 
 Contributors
 
-Mohamed Amine Koubaa – Lead Developer
-
+Mohamed Amine Koubaa 
 
 This repository is a mirror of the original project hosted on GitLab:
 [GitLab Repository](https://gitlab.com/needaimdark/dice_driven_unity_client)
